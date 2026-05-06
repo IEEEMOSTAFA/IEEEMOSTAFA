@@ -1,3 +1,8 @@
+<!-- Banner Image -->
+<p align="center">
+  <img src="banner/Mostafa_banner.png" alt="Mostafa Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Md Al Mostafa</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
